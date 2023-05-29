@@ -1,6 +1,4 @@
-# binary-tree-mlm
-MLM Binary Tree
-# MLM Software
+# Binary-tree-MLM Software
 
 MLM Software is a web-based application built using PHP and MySQL for managing multi-level marketing businesses. 
 It provides features for tracking downlines, calculating commissions, and managing product inventory. 
