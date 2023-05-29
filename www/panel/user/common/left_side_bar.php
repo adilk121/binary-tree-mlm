@@ -56,31 +56,7 @@
           <li><a href="#"><i class="fa fa-circle-o"></i>Expiring Sales</a></li>
         </ul>
       </li>
-      <li class="treeview"> <a href="#"> <i class="fa  fa-transgender-alt "></i> <span>RelationAtoz</span> <i class="fa fa-angle-left pull-right"></i> </a>
-        <ul class="treeview-menu">
-          <li><a href="#"><i class="fa fa-circle-o"></i>Highest Achievers</a></li>
-          <li><a href="#"><i class="fa fa-circle-o"></i>Rewards Announced</a></li>
-          <li><a href="#"><i class="fa fa-circle-o"></i>Rewards Achievers</a></li>
-          <li><a href="#"><i class="fa fa-circle-o"></i>Meetings & Seminars</a></li>
-          <li> <a href="#"><i class="fa fa-circle-o"></i>Tag Holders <i class="fa fa-angle-left pull-right"></i></a>
-            <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Crown Ambassador</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Ambassador</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Sapphire</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Platinum</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Diamond</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Topaz</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Emeralnd</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Ruby</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Pearl</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Gold</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Silver</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Active</a></li>
-              
-            </ul>
-          </li>
-        </ul>
-      </li>
+     
       <li><a href="support_center.php"><i class="fa fa-mail-forward text-green"></i> <span>Support Center</span></a></li>
       <li><a href="logout.php"><i class="fa fa-circle-o text-red"></i> <span>Logout</span></a></li>
     </ul>
