@@ -33,6 +33,6 @@ To run the MLM Software locally, ensure that you have the following prerequisite
    
    
 ##Demo SS
-![image](https://github.com/adilk121/binary-tree-mlm/assets/112151943/b87b1e45-2de3-448d-9991-9905be8c336a)
+<img width="960" alt="Untitled" src="https://github.com/adilk121/binary-tree-mlm/assets/112151943/0597d6a1-2069-4942-90ba-36e17eeb0c87">
 
 
