@@ -27,7 +27,7 @@ To run the MLM Software locally, ensure that you have the following prerequisite
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/binary-tree-mlm.git
+   git clone https://github.com/adilk121/binary-tree-mlm.git
    
    
 ##Demo SS
