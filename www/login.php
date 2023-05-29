@@ -2,7 +2,7 @@
 <?php require_once("../library/error_msg.php");?>
 <?php require_once("common/login.php");?>
 <?php
-//echo password_hash("admin",PASSWORD_DEFAULT);
+
 if(isset($_POST['submit_form']))
 {
 	if((!isset($_POST['login_username'])) || (!isset($_POST['login_username'])) || (!isset($_POST['login_captcha'])))
