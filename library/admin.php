@@ -4,6 +4,7 @@
 <?php 
 class admin extends database 
 {
+	//allClasses
 	private $database_obj,$validate_obj;
 	function __construct()
 	{	
