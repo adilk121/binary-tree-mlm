@@ -1,6 +1,7 @@
 <?php
 session_start();
 $code = rand(1000, 9999);
+//header
 $_SESSION["code"] = $code;
 $im = imagecreatetruecolor(60, 28);
 $bg = imagecolorallocate($im, 100, 160, 181);
