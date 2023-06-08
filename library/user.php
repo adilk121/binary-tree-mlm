@@ -1,6 +1,7 @@
 <?php
 require_once("database.php"); ?>
 <?php 
+//header
 class user extends database
 {
 	
