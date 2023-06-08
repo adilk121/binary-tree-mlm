@@ -1,5 +1,6 @@
 <?php
 $msg="";
+//sessionmessage
 if(isset($_SESSION['msg']))
 {
 	$msg=$_SESSION['msg'];
