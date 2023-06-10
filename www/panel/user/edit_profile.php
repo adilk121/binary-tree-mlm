@@ -4,6 +4,8 @@
 <?php require("../../../library/user.php");?>
 <?php //echo SITE_WS_PATH; exit; ?>
 <?php
+
+//header
  $fetch_obj = new user;
 if(isset($_POST['UPDATE']))
 {
