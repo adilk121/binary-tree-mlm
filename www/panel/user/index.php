@@ -4,7 +4,8 @@
 <html>
   <head>
     <title><?php require("common/common_title.php");?></title>
-    <?php require("common/head_links.php");?>
+    <?php require("common/head_links.php"); 
+//header?>
   </head>
   <body class="hold-transition skin-blue sidebar-mini">
     <div class="wrapper">
