@@ -4,6 +4,7 @@
 <?php 
 			$fetch_obj = new user;
 			$remain_epin=$fetch_obj->show_income_details();
+//header
 ?>
 <!DOCTYPE html>
 <html>
