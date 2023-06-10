@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?php require("common/common_title.php");?></title>
+    <title><?php require("common/common_title.php");
+//header?></title>
     <?php require("common/head_links.php");?>
   </head>
   <body class="hold-transition skin-blue sidebar-mini">
