@@ -3,6 +3,7 @@
 <?php
 $subject="";
 $message="";
+//header
 
 if(!empty($_POST))
 {
